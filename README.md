@@ -1,3 +1,4 @@
-# VirtualJudgeSDIBT
+# Virtual Judge
 
-修改自HUSTVJ
+由SDIBT修改自HUSTVJ。
+虚拟评测并不是一个真正的在线评测系统。它可以从其它正规的在线评测系统抓题然后在那个在线评测系统中模拟交题。 它的目的在于可以让你在没有测试数据的情况下举办比赛。
